@@ -18,7 +18,7 @@ class graph
         {
             for(int j=0;j<ver;j++)
             {
-                System.out.println[arr[i][j]+"  "];
+                System.out.println(arr[i][j]+"  ");
             }
             System.out.println();
         }
